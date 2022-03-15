@@ -1,0 +1,9 @@
+# build directories
+build/
+.gradle/
+
+# Random IDE stuff. You can choose to not ignore these things if you are _relying_ on a particular IDE, but it's usually
+# good form to be IDE-agnostic, so don't check in IDE files. Some IDEs give you options of configuring
+# building/dependencies/source-sets etc. within the IDE, however this example project configures everything through
+# gradle (see build.gradle.kts, which is checked in).
+.idea/
