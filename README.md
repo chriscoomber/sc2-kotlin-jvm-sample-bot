@@ -9,7 +9,7 @@ write your bot however you like, this hopefully just helps you get started with 
 
 ## Prerequisites
 
-You need a Java JDK installed, of a version equal to or greater than 1.9, and your environment variable JAVA_HOME should point to this.
+You need a Java JDK installed, of a version equal to or greater than 1.9, and your environment variable JAVA_HOME should point to this. I've tested with JDK 11.
 
 You need Starcraft II retail installed, and you need to run it and ensure the map "2000 Atmospheres LE" is downloaded (e.g. host a custom game lobby with that map).
 
