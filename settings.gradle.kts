@@ -1,2 +1,2 @@
-rootProject.name = "kotlin-jvm-bot-sample"
+rootProject.name = "myBot"
 
